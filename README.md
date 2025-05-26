@@ -32,7 +32,7 @@ A web-based application for real-time American Sign Language (ASL) gesture recog
 
 ## 🚀 How to Run
 1. Clone the repository
-   - git clone https://github.com/your-username/LearnSign.git
+   - git clone https://github.com/Nehul1149/LearnSign-AI-Machine-Learning-Based-Gamified-Sign-Language-Learning-Platform.git
    - cd LearnSign
 
 2. Create a virtual environment
@@ -45,3 +45,12 @@ A web-based application for real-time American Sign Language (ASL) gesture recog
 4. Run the Sign Language Recognizer
    - recognizer.py
 
+---
+
+This will:
+
+- Start your webcam
+- Detect your hand gestures in real-time
+- Display the recognized letter at the top
+- Generate a caption based on the signs you show (e.g., "Hello Nehul")
+- Apply animations, color effects, and delay logic for smooth predictions
